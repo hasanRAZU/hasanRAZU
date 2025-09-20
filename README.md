@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there 👋, I'm Hasan
 
-<!--
-**hasanRAZU/hasanRAZU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineer passionate about building cool projects in Java, Python, and Web Development.
 
-Here are some ideas to get you started:
+## 🔭 Projects
+<!-- Projects will be added dynamically -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Skills & Tech Stack
+<!-- Skills badges will be added dynamically -->
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasanrazu&show_icons=true&count_private=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanrazu&layout=compact&theme=radical)
+
+## 📫 Contact Me
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/hasanRAZU](https://linkedin.com/in/hasanRAZU)
