@@ -1,0 +1,49 @@
+name: Update Dynamic Profile
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # runs daily
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Fetch Repos and Languages
+        run: |
+          echo "## 🛠 Skills & Tech Stack" > README.md
+          REPOS=$(curl -s https://api.github.com/users/Hasanrazu/repos | jq -r '.[].name')
+          LANGS=""
+          for repo in $REPOS; do
+            curl -s https://api.github.com/repos/Hasanrazu/$repo/languages \
+            | jq -r 'to_entries | sort_by(-.value) | .[0:2] | .[].key' >> temp_langs.txt
+          done
+          sort temp_langs.txt | uniq | while read lang; do
+            echo "![${lang}](https://img.shields.io/badge/${lang}-${lang}-blue?style=for-the-badge&logo=${lang}&logoColor=white)" >> README.md
+          done
+          
+      - name: Add Projects Section
+        run: |
+          echo -e "\n## 🔭 Projects" >> README.md
+          for repo in $REPOS; do
+            echo "[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hasanrazu&repo=$repo&theme=radical)](https://github.com/Hasanrazu/$repo)" >> README.md
+          done
+
+      - name: Append GitHub Stats
+        run: |
+          echo -e "\n## 📊 GitHub Stats" >> README.md
+          echo "![GitHub stats](https://github-readme-stats.vercel.app/api?username=Hasanrazu&show_icons=true&count_private=true&theme=radical)" >> README.md
+          echo "![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanrazu&layout=compact&theme=radical)" >> README.md
+
+      - name: Commit & Push changes
+        run: |
+          git config --local user.email "your.email@example.com"
+          git config --local user.name "Hasan Razu"
+          git add README.md
+          git commit -m "Update dynamic profile" || echo "No changes to commit"
+          git push
