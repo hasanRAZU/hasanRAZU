@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Hasan
+# Hi there 👋, I'm Hasan Razu
 
 I'm a software engineer passionate about building cool projects in Java, Python, and Web Development.
 
@@ -34,5 +34,5 @@ I'm a software engineer passionate about building cool projects in Java, Python,
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanrazu&layout=compact&theme=radical)
 
 ## 📫 Contact Me
-- Email: your.email@example.com
+- Email: hasanrazu.cse.193.gub@gmail.com
 - LinkedIn: [linkedin.com/in/hasanRAZU](https://linkedin.com/in/hasanRAZU)
