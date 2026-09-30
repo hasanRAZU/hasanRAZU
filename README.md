@@ -21,35 +21,9 @@ I also have a software development background with experience in **Java, Python,
 
 ## 🚀 Projects
 
-### 1. Coaching Center Management - Spring Web MVC
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
-A web-based coaching center management system developed using Spring MVC.
-
-🔗 [View Repository](https://github.com/hasanRAZU/coaching-center-management-springboot-mvc)
-
-### 2. Mood-Based Quote Music Recommender
-
-A project that recommends quotes and music based on the user's mood.
-
-🔗 [View Repository](https://github.com/hasanRAZU/Mood-Based-Quote-Music-Recommender)
-
-### 3. Calorie Care Mobile Application
-
-A Java-based mobile application focused on calorie and health-related tracking.
-
-🔗 [View Repository](https://github.com/hasanRAZU/Calorie-Care-Mobile-Application-using-Java)
-
-### 4. Two Level Encoding-Decoding
-
-A Java-based project implementing a two-level encoding and decoding mechanism.
-
-🔗 [View Repository](https://github.com/hasanRAZU/TwoLevelOf-EncodingDecoding-using-Java)
-
-### 5. Chat Application
-
-A Java-based chat application demonstrating client-server communication.
-
-🔗 [View Repository](https://github.com/hasanRAZU/Chat-Application-using-Java)
 
 ## 🛠 Skills & Tech Stack
 
@@ -101,9 +75,9 @@ A Java-based chat application demonstrating client-server communication.
 
 ## 📊 GitHub Stats
 
-![Hasan Razu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hasanrazu\&show_icons=true\&theme=radical)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hasanrazu\&layout=compact\&theme=radical)
+![Top Languages](./profile/top-langs.svg)
 
 ## 🎯 Career Goal
 
