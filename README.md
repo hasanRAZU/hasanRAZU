@@ -19,97 +19,36 @@ I also have a software development background with experience in **Java, Python,
 * Database Objects & SQL/PLSQL Development
 * Enterprise Applications
 
-## 🚀 Projects
+🚀 Projects
+1. Coaching Center Management - Spring Web MVC
 
-## 🚀 Projects
+A web-based coaching center management system developed using Spring MVC.
 
-<!-- PROJECTS:START -->
+🔗 View Repository
 
-### [hasanRAZU.github.io](https://github.com/hasanRAZU/hasanRAZU.github.io)
+2. Mood-Based Quote Music Recommender
 
-No description available.
+A project that recommends quotes and music based on the user's mood.
 
-**Language:** HTML | **Stars:** ⭐ 0
+🔗 View Repository
 
-### [coaching-center-management-springboot-mvc](https://github.com/hasanRAZU/coaching-center-management-springboot-mvc)
+3. Calorie Care Mobile Application
 
-A Spring Boot MVC project for student management including CRUD operations for students, teachers, and courses with course enrollment using Thymeleaf frontend and in-memory repository.
+A Java-based mobile application focused on calorie and health-related tracking.
 
-**Language:** Java | **Stars:** ⭐ 0
+🔗 View Repository
 
-### [java-mini-projects](https://github.com/hasanRAZU/java-mini-projects)
+4. Two Level Encoding-Decoding
 
-No description available.
+A Java-based project implementing a two-level encoding and decoding mechanism.
 
-**Language:** Java | **Stars:** ⭐ 0
+🔗 View Repository
 
-### [automation-testing-using-selenium-java](https://github.com/hasanRAZU/automation-testing-using-selenium-java)
+5. Chat Application
 
-No description available.
+A Java-based chat application demonstrating client-server communication.
 
-**Language:** HTML | **Stars:** ⭐ 0
-
-### [java-learnings-archive](https://github.com/hasanRAZU/java-learnings-archive)
-
-No description available.
-
-**Language:** Java | **Stars:** ⭐ 0
-
-### [TwoLevelOf-EncodingDecoding-using-Java](https://github.com/hasanRAZU/TwoLevelOf-EncodingDecoding-using-Java)
-
-No description available.
-
-**Language:** Java | **Stars:** ⭐ 0
-
-### [MobileApplication-Practices-](https://github.com/hasanRAZU/MobileApplication-Practices-)
-
-No description available.
-
-**Language:** Java | **Stars:** ⭐ 0
-
-### [Calorie-Care-Mobile-Application-using-Java](https://github.com/hasanRAZU/Calorie-Care-Mobile-Application-using-Java)
-
-No description available.
-
-**Language:** Java | **Stars:** ⭐ 0
-
-### [LakeSide-View-autocad-](https://github.com/hasanRAZU/LakeSide-View-autocad-)
-
-No description available.
-
-**Language:** N/A | **Stars:** ⭐ 0
-
-### [Digital-Logic-Design-tinkercad-](https://github.com/hasanRAZU/Digital-Logic-Design-tinkercad-)
-
-No description available.
-
-**Language:** N/A | **Stars:** ⭐ 0
-
-### [Chat-Application-using-Java](https://github.com/hasanRAZU/Chat-Application-using-Java)
-
-No description available.
-
-**Language:** Java | **Stars:** ⭐ 0
-
-### [Mood-Based-Quote-Music-Recommender](https://github.com/hasanRAZU/Mood-Based-Quote-Music-Recommender)
-
-🎶 A Machine Learning project that detects user mood from images using DeepFace and recommends motivational quotes along with bilingual (English & Bangla) Spotify songs. Includes a Flask backend and a modern frontend with next/previous song navigation.
-
-**Language:** HTML | **Stars:** ⭐ 0
-
-### [cyber-suite-web-application-web-page-](https://github.com/hasanRAZU/cyber-suite-web-application-web-page-)
-
-No description available.
-
-**Language:** JavaScript | **Stars:** ⭐ 0
-
-### [Animations](https://github.com/hasanRAZU/Animations)
-
-No description available.
-
-**Language:** N/A | **Stars:** ⭐ 0
-
-<!-- PROJECTS:END -->
+🔗 View Repository
 
 
 ## 🛠 Skills & Tech Stack
